@@ -1,0 +1,220 @@
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6972793195376370
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://www.algerie-focus.com/charte-algerie-focus.com.pdf
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\charte-algerie-focus.com.pdf
+Content Type: application/pdf
+
+Uri: https://www.algerie-focus.com/education-en-algerie-reformes-vs-realiteseducation-en-algerie-reformes-vs-realites/
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\education-en-algerie-reformes-vs-realiteseducation-en-algerie-reformes-vs-realites\index.htm
+Content Type: text/html
+
+Uri: https://www.algerie-focus.com/favicon.ico
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.algerie-focus.com/feed/
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.js?ver=9.0.1
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\google-analytics-for-wordpress\assets\js\frontend-gtag.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/gpt3-ai-content-generator/public/css/wp-ai-content-generator-public.css?ver=1.8.77
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\gpt3-ai-content-generator\public\css\wp-ai-content-generator-public.css
+Content Type: text/css
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/gpt3-ai-content-generator/public/js/wp-ai-content-generator-public.js?ver=1.8.77
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\gpt3-ai-content-generator\public\js\wp-ai-content-generator-public.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/gpt3-ai-content-generator/public/js/wpaicg-chat.js
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\gpt3-ai-content-generator\public\js\wpaicg-chat.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/gpt3-ai-content-generator/public/js/wpaicg-form-shortcode.js
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\gpt3-ai-content-generator\public\js\wpaicg-form-shortcode.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/gpt3-ai-content-generator/public/js/wpaicg-init.js
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\gpt3-ai-content-generator\public\js\wpaicg-init.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/td-composer/legacy/Newspaper/assets/css/td_legacy_main.css?ver=5b75a1149b707159a7e71fd3bf09ff7b
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\td-composer\legacy\Newspaper\assets\css\td_legacy_main.css
+Content Type: text/css
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tagdiv_theme.min.js?ver=12.6.7
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\td-composer\legacy\Newspaper\js\tagdiv_theme.min.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tdAjaxCount.js?ver=12.6.7
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\td-composer\legacy\Newspaper\js\tdAjaxCount.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tdAjaxSearch.js?ver=12.6.7
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\td-composer\legacy\Newspaper\js\tdAjaxSearch.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tdAnimationSprite.js?ver=12.6.7
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\td-composer\legacy\Newspaper\js\tdAnimationSprite.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tdDatei18n.js?ver=12.6.7
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\td-composer\legacy\Newspaper\js\tdDatei18n.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tdLoadingBox.js?ver=12.6.7
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\td-composer\legacy\Newspaper\js\tdLoadingBox.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tdLogin.js?ver=12.6.7
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\td-composer\legacy\Newspaper\js\tdLogin.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tdLoginMobile.js?ver=12.6.7
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\td-composer\legacy\Newspaper\js\tdLoginMobile.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tdMenu.js?ver=12.6.7
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\td-composer\legacy\Newspaper\js\tdMenu.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tdModalPostImages.js?ver=12.6.7
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\td-composer\legacy\Newspaper\js\tdModalPostImages.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tdPostImages.js?ver=12.6.7
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\td-composer\legacy\Newspaper\js\tdPostImages.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tdSocialSharing.js?ver=12.6.7
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\td-composer\legacy\Newspaper\js\tdSocialSharing.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tdToTop.js?ver=12.6.7
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\td-composer\legacy\Newspaper\js\tdToTop.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tdWeather.js?ver=12.6.7
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\td-composer\legacy\Newspaper\js\tdWeather.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/td-composer/td-multi-purpose/style.css?ver=5b75a1149b707159a7e71fd3bf09ff7b
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\td-composer\td-multi-purpose\style.css
+Content Type: text/css
+
+Uri: https://www.algerie-focus.com/wp-content/plugins/td-standard-pack/Newspaper/assets/css/td_standard_pack_main.css?ver=8f2d47acef43f76b1dfa75a39c0fe3df
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\plugins\td-standard-pack\Newspaper\assets\css\td_standard_pack_main.css
+Content Type: text/css
+
+Uri: https://www.algerie-focus.com/wp-content/themes/Newspaper/style.css?ver=12.6.7
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\themes\Newspaper\style.css
+Content Type: text/css
+
+Uri: https://www.algerie-focus.com/wp-content/uploads/2012/07/af3.png
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\uploads\2012\07\af3.png
+Content Type: image/png
+
+Uri: https://www.algerie-focus.com/wp-content/uploads/2012/07/logo.png
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\uploads\2012\07\logo.png
+Content Type: image/png
+
+Uri: https://www.algerie-focus.com/wp-content/uploads/2022/09/cropped-SGN_09_15_2022_1663205697325-180x180.png
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\uploads\2022\09\cropped-SGN_09_15_2022_1663205697325-180x180.png
+Content Type: image/png
+
+Uri: https://www.algerie-focus.com/wp-content/uploads/2022/09/cropped-SGN_09_15_2022_1663205697325-192x192.png
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\uploads\2022\09\cropped-SGN_09_15_2022_1663205697325-192x192.png
+Content Type: image/png
+
+Uri: https://www.algerie-focus.com/wp-content/uploads/2022/09/cropped-SGN_09_15_2022_1663205697325-32x32.png
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\uploads\2022\09\cropped-SGN_09_15_2022_1663205697325-32x32.png
+Content Type: image/png
+
+Uri: https://www.algerie-focus.com/wp-content/uploads/2024/09/10968735lpw-10968734-article-jpg_4667594_660x287-100x70.webp
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\uploads\2024\09\10968735lpw-10968734-article-jpg_4667594_660x287-100x70.webp
+Content Type: image/webp
+
+Uri: https://www.algerie-focus.com/wp-content/uploads/2024/09/10968735lpw-10968734-article-jpg_4667594_660x287-218x150.webp
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\uploads\2024\09\10968735lpw-10968734-article-jpg_4667594_660x287-218x150.webp
+Content Type: image/webp
+
+Uri: https://www.algerie-focus.com/wp-content/uploads/2024/09/images-7-100x70.jpeg
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\uploads\2024\09\images-7-100x70.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.algerie-focus.com/wp-content/uploads/2024/09/images-7-218x150.jpeg
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\uploads\2024\09\images-7-218x150.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.algerie-focus.com/wp-content/uploads/2024/09/images-8.jpeg
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\uploads\2024\09\images-8.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.algerie-focus.com/wp-content/uploads/2024/09/kjhg-100x70.jpg
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\uploads\2024\09\kjhg-100x70.jpg
+Content Type: image/jpeg
+
+Uri: https://www.algerie-focus.com/wp-content/uploads/2024/09/kjhg-218x150.jpg
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\uploads\2024\09\kjhg-218x150.jpg
+Content Type: image/jpeg
+
+Uri: https://www.algerie-focus.com/wp-content/uploads/2024/09/LAlgerie-a-la-Croisee-des-Chemins-Le-Defi-Europeen-de-se-Passer-du-Gaz-Naturel-100x70.jpg
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\uploads\2024\09\LAlgerie-a-la-Croisee-des-Chemins-Le-Defi-Europeen-de-se-Passer-du-Gaz-Naturel-100x70.jpg
+Content Type: image/jpeg
+
+Uri: https://www.algerie-focus.com/wp-content/uploads/2024/09/LAlgerie-a-la-Croisee-des-Chemins-Le-Defi-Europeen-de-se-Passer-du-Gaz-Naturel-218x150.jpg
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\uploads\2024\09\LAlgerie-a-la-Croisee-des-Chemins-Le-Defi-Europeen-de-se-Passer-du-Gaz-Naturel-218x150.jpg
+Content Type: image/jpeg
+
+Uri: https://www.algerie-focus.com/wp-content/uploads/2024/09/p-5-1-17-100x70.jpg
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\uploads\2024\09\p-5-1-17-100x70.jpg
+Content Type: image/jpeg
+
+Uri: https://www.algerie-focus.com/wp-content/uploads/2024/09/p-5-1-17-218x150.jpg
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-content\uploads\2024\09\p-5-1-17-218x150.jpg
+Content Type: image/jpeg
+
+Uri: https://www.algerie-focus.com/wp-includes/css/dist/block-library/style.min.css?ver=6.6.1
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.algerie-focus.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://www.algerie-focus.com/wp-json/
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.algerie-focus.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.algerie-focus.com%2Feducation-en-algerie-reformes-vs-realiteseducation-en-algerie-reformes-vs-realites%2F
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.algerie-focus.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.algerie-focus.com%2Feducation-en-algerie-reformes-vs-realiteseducation-en-algerie-reformes-vs-realites%2F&format=xml
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.algerie-focus.com/wp-json/wp/v2/posts/237312
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\wp-json\wp\v2\posts\237312
+Content Type: application/json
+
+Uri: https://www.algerie-focus.com/xmlrpc.php?rsd
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-YJKKMM8Y00
+File Name: C:\Users\User\Downloads\www.algerie-focus.com\gtag\js
+Content Type: application/javascript
+
